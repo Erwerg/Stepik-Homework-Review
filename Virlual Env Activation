@@ -1,0 +1,7 @@
+cd /Users/kirpa/environments
+selenium_env\Scripts\activate.bat
+cd /Users/kirpa/Stepik---Selenium-WebDriver
+
+cd /
+Users\kirpa\environments\selenium_env\Scripts\activate.bat
+cd /Users/kirpa/Stepik---Selenium-WebDriver
